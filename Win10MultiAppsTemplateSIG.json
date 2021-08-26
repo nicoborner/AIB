@@ -87,7 +87,7 @@
           "distribute": [
             {   
                 "type": "SharedImage",
-                "galleryImageId": "/subscriptions/b786b7fb-e267-44ff-b32c-d4bbb024d90c/resourceGroups/NBO-AIB/providers/Microsoft.Compute/galleries/myaibsig01/images/win10wvd",
+                "galleryImageId": "/subscriptions/b786b7fb-e267-44ff-b32c-d4bbb024d90c/resourceGroups/NBO-AIB/providers/Microsoft.Compute/galleries/NBOAIBGallery/images/win10wvd",
                 "runOutputName": "sigOutput",
                 "artifactTags": {
                     "source": "wvd10",
